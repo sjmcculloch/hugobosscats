@@ -6,10 +6,20 @@
     <description>Recent content on Hugo Boss Cats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2017 07:21:06 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 12:03:33 +1100</lastBuildDate>
     
 	<atom:link href="https://hugobosscats.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Form Complete</title>
+      <link>https://hugobosscats.netlify.com/complete/</link>
+      <pubDate>Fri, 20 Oct 2017 12:03:33 +1100</pubDate>
+      
+      <guid>https://hugobosscats.netlify.com/complete/</guid>
+      <description>Thank You   We&#39;ll be in contact!
+   </description>
+    </item>
     
     <item>
       <title>My First Poster</title>
