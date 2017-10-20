@@ -119,7 +119,7 @@ layout: empty
             </div>
         </div>
         <div class="row ">
-            <div class="col-lg-12">
+            <div class="col-lg-10 col-lg-offset-1">
                 <p>-- Security &amp; Privacy - all communication between client and server is encrypted. Essential for any site that has any kind of form submission or when you are on free Wi-Fi services.</p>
                 <p>-- SEO &amp;Analytics - Google rewards sites running SSL and for Analytics, you only get referrers from HTTPS sites if you support it as well. </p>
                 <p>-- Performance - HTTP/2 only works when HTTPS is enabled.</p>
@@ -164,9 +164,9 @@ layout: empty
                 At Netlify we use this environment by default:
             </p>
             <p>
-                - Node.js - version 6.11.4 (with npm version 3)
-                - Ruby - version 2.1.2
-                - Python - version 2.7
+                - Node.js - version 6.11.4 (with npm version 3)<br/>
+                - Ruby - version 2.1.2<br/>
+                - Python - version 2.7<br/>
                 - PHP - version 5.5.9
             </p>
             <p>
