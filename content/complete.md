@@ -14,6 +14,7 @@ layout: empty
         </div>
         <div class="row text-center">
             <p>We'll be in contact!</p>
+            <p><a href="/"><< Back to Home</a></p>
         </div>
     </div>
 </div>
