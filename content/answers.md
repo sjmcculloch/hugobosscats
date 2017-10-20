@@ -177,5 +177,17 @@ layout: empty
             </p>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>(optional/bonus) Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?</h3>
+            </div>
+        </div>
+        <div class="row ">
+            <div class="col-lg-10 col-lg-offset-1">
+                <p>Enabled in _redirects file using:</p>
+                <blockquote>/netlify/*  https://www.google.com/search?q=:splat</blockquote>
+                <p>&nbsp;</p>
+            </div>
+        </div>
     </div>
 </section>
