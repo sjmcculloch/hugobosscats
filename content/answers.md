@@ -86,6 +86,7 @@ layout: empty
                 <p>The article extolled the virtues of Netlify as the build service &amp; host in the solution. I had already done a great deal of work in the CMS world and in particular content modelling with the usage of a headless CMS so it looked like a neat solution.  </p>
                 <p>I'm the type of person that often needs to build things for myself to understand, so I used the above solution as a template and built a small blog site using Contentful &amp; Netlify. [It also has AMP enabled](https://www.makemutcoins.com/amp/investing-in-players-for-profit). I also [wrote about my experiences](https://www.smcculloch.com/code/netlify-contentful-jamstack).</p>
                 <p>For the solution today, I hadn't used Hugo before so that is why I chose that as a solution. My [current blog](//www.smcculloch.com) is built using Jekyll. </p>
+                <p>The main challenge I had in setup was some misconfiguration at github with the theme files not setup correctly. Turning on debugging highlighted me to the issue and I was able to resolve it. I also used [Netlify's inbuilt form support](https://www.netlify.com/docs/form-handling/) for the [contact form](/#contact) (replacing the 3rd party service in the theme).</p>
                 <p>&nbsp;</p>
             </div>
         </div>
